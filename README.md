@@ -8,3 +8,5 @@ Login – vista-> Diego
              Vista Usuario-> Felipe
 	Vista Admin->  Diego
 	Vista Cliente-> Felipe
+	
+Señores, a la fecha no han subido ni una tarea, llevan una semana y nada de nada.
